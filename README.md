@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=janearaya">
+  <a href="https://komarev.com/ghpvc/?username=janethevirgin">
     <img src="https://komarev.com/ghpvc/?username=janearaya&label=Profile%20views&color=00FFFF&style=flat-square" alt="janearaya's profile views" />
   </a>
 </p>
@@ -19,13 +19,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/janearaya">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=janearaya&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="janearaya's GitHub Stats" />
+  <a href="https://github.com/janethevirgin">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=janethevirgin&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="janearaya's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=janearaya&theme=radical&hide_border=true&cache_seconds=86400" alt="janearaya's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=janearaya&theme=radical&radius=10" alt="janearaya's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=janethevirgin&theme=radical&radius=10" alt="janeyaraya's Activity Graph" />
 </p>
 
 
@@ -78,14 +78,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/janearaya">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janearaya&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/janethevirgin">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janethevirgin&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.youtube.com/@janearaya">
+  <a href="https://www.youtube.com/@janethevirginchannel">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lovely2020lachimolala@gmail.com">
