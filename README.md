@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=lovelyaraya">
-    <img src="https://komarev.com/ghpvc/?username=lovelyaraya&label=Profile%20views&color=00FFFF&style=flat-square" alt="lovelyaraya's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=janethevirgn">
+    <img src="https://komarev.com/ghpvc/?username=janethevirgn&label=Profile%20views&color=00FFFF&style=flat-square" alt="Jane's Profile Views" />
   </a>
 </p>
 
@@ -18,12 +18,12 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/lovelyaraya">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lovelyaraya&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Jane's GitHub Stats" />
+  <a href="https://github.com/janethevirgn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=janethevirgn&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Jane's GitHub Stats" />
   </a>
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=lovelyaraya&theme=radical&radius=10" alt="Jane's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=janethevirgn&theme=radical&radius=10" alt="Jane's Activity Graph" />
 </p>
 
 
@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/lovelyaraya">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lovelyaraya&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janethevirgn&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
